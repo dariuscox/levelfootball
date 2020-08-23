@@ -1,16 +1,18 @@
 .name {
   margin-top: auto;
   text-align: center;
+  font-family: Arial;
 }
 .position{
   text-align: center;
+  font-family: Arial;
 }
 body {
   background-color: #e8e8e8;
 }
 .imgbox {
   display: grid;
-  height: 100%;
+  height: 50%;
   width: 100%
 }
 .centerfit {
